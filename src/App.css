@@ -168,9 +168,11 @@ ul {
   font-weight: 700;
   padding-top: 50px;
 }
-
+.trackHover {
+  padding-right: 1em;
+}
 .trackHover:hover {
-  background-color: black;
+  background-color: rgb(49, 47, 47);
   cursor: pointer;
 }
 
